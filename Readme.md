@@ -1,4 +1,4 @@
-Pasos para iniciar en el mundo de Go
+    Pasos para iniciar en el mundo de Go
 
     1.- 
     --Hello world
@@ -15,26 +15,19 @@ Pasos para iniciar en el mundo de Go
     --Tipos de datos
 
     Al declarar un tipo de  variable solo debe contener valores de ese mismo tipo de variable
-    
-    package main
-    import "fmt"
-    var z int = 21 //No es recomendable declarar valores fuera de una funcion y utilizamos la  variable
+    //No es recomendable declarar valores fuera de una funcion y utilizamos la  variable
                     var cuando queremos inicializar por default
-    func main() {
-	fmt.Println(z)
-    }
+    
     3.-
 
-    package main
-    import (
-        "fmt"
-    )
-    // Declarando la variable con el tipo de identificador int
-    var z int //si no lo declaras el valor es cero por default
-    func main() {
-        z = 21  //Es mejor declararla dentro de la funcion
-        fmt.Println(z)
-    }
+    //Declarando la variable con el tipo de identificador int
+    var z int //si no lo declaras el valor es cero por default   
+    //Es mejor declararla dentro de la funcion
+        
+
+    4.-
+    //Se puede convertir un tipo solo agregandole de un lado el tipo al que se va a convertir conversions
+
 
 
 
