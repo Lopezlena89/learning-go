@@ -28,6 +28,21 @@
     4.-
     //Se puede convertir un tipo solo agregandole de un lado el tipo al que se va a convertir conversions
 
+    5.-
+    //Println recibe una cantidad variable de parametros fmt.Println("Mi",b,f)
+    fmt.Fprint formato
+    fmt.Sprint string
+    fmt.Printf te regresa el tipo de algo
+
+    6.-
+
+    //type dinero int asi declaras un nuevo tipo
+    y lo utilizas dentro de la funcion
+    //no puedes sobreescribir una variable de un tipo con otro tipo
+
+
+
+
 
 
 
