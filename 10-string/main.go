@@ -18,6 +18,7 @@ func main() {
 
 	fmt.Println("")
 	bs := []byte(s1)
+
 	fmt.Println(bs)
 	fmt.Printf("%T\n", bs)
 
